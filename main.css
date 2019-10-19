@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+.container-header{
+    padding: 50px;
+    
+}
+.banner{
+    text-align: center;
+    font-size: 800px;
+}
